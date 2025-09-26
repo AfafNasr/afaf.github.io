@@ -9,4 +9,4 @@ Computer Engineering Student
 - AI & Machine Learning basics
 
 ## Projects
-- **Project 1**:  [Link](https://github.com/AdvancedSoftwareProject/HopeConnectPro)
+- **Project 1**:  [https://github.com/AdvancedSoftwareProject/HopeConnectPro](https://github.com/AdvancedSoftwareProject/HopeConnectPro)
