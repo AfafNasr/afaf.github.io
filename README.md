@@ -9,5 +9,4 @@ Computer Engineering Student
 - AI & Machine Learning basics
 
 ## Projects
-- **Project 1**: [ [Link](https://github.com/afaf-naser/project1)](https://github.com/AdvancedSoftwareProject/HopeConnectPro])
-- **Project 2**: Short description. [Link](https://github.com/afaf-naser/project2)
+- **Project 1**:  [Link](https://github.com/AdvancedSoftwareProject/HopeConnectPro)
