@@ -27,8 +27,7 @@
     * [View Repository](https://github.com/AfafNasr/Pokedex)
 * **Slide Station (Hardware Project)**
     * [Access Documentation (Google Drive)](https://drive.google.com/drive/folders/1WjoiN9E191RCpwnpSeSgu7uAhB5bbbyd?usp=sharing)
-* **Notely (Cloud Deployment Project)**
-    * [View Code & Deployment Details](https://github.com/AfafNasr/ts-web-crawler) *(Note: Based on recent deployment activity)*
+
 
 ---
 
